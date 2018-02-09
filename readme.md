@@ -1,7 +1,21 @@
-# HipDrips! 
-### The fun color picker UI launcher that copies a color's hex code to your clipboard!
+# HipDrips! 👩‍🎨👨‍🎨
+### The Fun & Simple Way to Snag a Little Color
 
-## Instalation 
+<center><img src= "./Assets/HipDrips--Chars.png"></center>
+
+## Leave HipDrip in Your Dock for Quick Access
+  <img src= "./Assets/dock.gif" style="width:350px">
+
+## Or Quickly Use Spotlight
+  <img src= "./Assets/spotlight.gif" style="width:350px">
+
+## HipDrip Opens with a Random Color Every Time
+  <img src= "./Assets/random.gif" style="width:350px">
+
+## Who the- 
+  <img src= "./Assets/characters.gif" style="width:350px">
+
+## ✨ How To Install ✨ 
 ``` 
 - download the .zip of this repo
 - unzip
@@ -9,9 +23,3 @@
 - update your security settings to open a new Application
 - Drip! 🎨
 ```
-
-<img src= "./Assets/colorpicker.png">
-<br>
-<img src= "./Assets/hipdrip.gif" style="width:350px">
-<br>
-<img src= "./Assets/picker.png" style="width:350px">
