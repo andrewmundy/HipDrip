@@ -1,9 +1,4 @@
-# HipDrips! 👩‍🎨👨‍🎨
-### The Fun & Simple Way to Snag a Little Color
-
-<center>
-  <img src="./Assets/HipDrips--Chars.png" width="450">
-</center>
+<img src="./Assets/HipDrips--Chars.png" width="450">
 
 ## Leave HipDrip in Your Dock for Quick Access
   <img src= "./Assets/dock.gif" width="450">
