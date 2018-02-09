@@ -2,20 +2,20 @@
 ### The Fun & Simple Way to Snag a Little Color
 
 <center>
-  <img style="max-width:550px !important;" src= "./Assets/HipDrips--Chars.png">
+  <img src="./Assets/HipDrips--Chars.png" width="450">
 </center>
 
 ## Leave HipDrip in Your Dock for Quick Access
-  <img style="width:400px !important;" src= "./Assets/dock.gif">
+  <img src= "./Assets/dock.gif" width="450">
 
 ## Or Quickly Use Spotlight
-  <img style="width:400px !important;" src= "./Assets/spotlight.gif">
+  <img  src= "./Assets/spotlight.gif" width="450">
 
 ## HipDrip Opens with a Random Color Every Time
-  <img style="width:400px !important;" src= "./Assets/random.gif">
+  <img  src= "./Assets/random.gif" width="450">
 
 ## Who the- 
-  <img style="width:400px !important;" src= "./Assets/characters.gif">
+  <img  src= "./Assets/characters.gif" width="450">
 
 
 ## ✨ How To Install ✨ 
