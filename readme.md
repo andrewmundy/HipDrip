@@ -1,16 +1,16 @@
 <img src="https://s3-us-west-2.amazonaws.com/am-design-images/HipDrips--Chars.png" width="500">
 
 ## Leave HipDrip in Your Dock for Quick Access
-![dock](https://s3-us-west-2.amazonaws.com/am-design-images/dock.gif)
+![](https://s3-us-west-2.amazonaws.com/am-design-images/dock.gif)
 
 ## Or Quickly Use Spotlight
-![dock](https://s3-us-west-2.amazonaws.com/am-design-images/spotlight.gif)
+![](https://s3-us-west-2.amazonaws.com/am-design-images/spotlight.gif)
 
 ## HipDrip Opens with a Random Color Every Time
-![dock](https://s3-us-west-2.amazonaws.com/am-design-images/random.gif)
+![](https://s3-us-west-2.amazonaws.com/am-design-images/random.gif)
 
 ## Who the- 
-![dock](https://s3-us-west-2.amazonaws.com/am-design-images/characters.gif)
+![](https://s3-us-west-2.amazonaws.com/am-design-images/characters.gif)
 
 
 ## ✨ How To Install ✨ 
