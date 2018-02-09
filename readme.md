@@ -2,7 +2,7 @@
 ### The Fun & Simple Way to Snag a Little Color
 
 <center>
-  <img style="width:550px !important;" src= "./Assets/HipDrips--Chars.png">
+  <img style="max-width:550px !important;" src= "./Assets/HipDrips--Chars.png">
 </center>
 
 ## Leave HipDrip in Your Dock for Quick Access
