@@ -1,16 +1,16 @@
-<img src="https://s3-us-west-2.amazonaws.com/am-design-images/HipDrips--Chars.png" width="500">
+<img src="./Alternate_Icons/gifs/HipDrips--Chars.png" width="450">
 
 ## Leave HipDrip in Your Dock for Quick Access
-![](https://s3-us-west-2.amazonaws.com/am-design-images/dock.gif)
+  <img src= "./Alternate_Icons/gifs/dock.gif" width="450">
 
 ## Or Quickly Use Spotlight
-![](https://s3-us-west-2.amazonaws.com/am-design-images/spotlight.gif)
+  <img  src= "./Alternate_Icons/gifs/spotlight.gif" width="450">
 
 ## HipDrip Opens with a Random Color Every Time
-![](https://s3-us-west-2.amazonaws.com/am-design-images/random.gif)
+  <img  src= "./Alternate_Icons/gifs/random.gif" width="450">
 
 ## Who the- 
-![](https://s3-us-west-2.amazonaws.com/am-design-images/characters.gif)
+  <img  src= "./Alternate_Icons/gifs/characters.gif" width="450">
 
 
 ## ✨ How To Install ✨ 
@@ -29,11 +29,10 @@ Included in this repo is a collection of alternate icons. Honestly, I've spent m
 2. `right-click` HipDrips.app > Get Info > `click` on the icon image in the top left > `Cmd + D` to paste
 3. Presto!
 
-<img src="./Alternate Icons/colorpicker.png" width="200">
-<img src="./Alternate Icons/colorpicker_friends.png" width="200">
-<img src="./Alternate Icons/vaporwave.png" width="200">
-<img src="./Alternate Icons/vaporwave_clean.png" width="200">
-<img src="./Alternate Icons/vaporwave_clean.png" width="200">
-<img src="./Alternate Icons/hipdriplarge.png" width="200">
-<img src="./Alternate Icons/hipdrips_messy.png" width="200">
-<img src="./Alternate Icons/hipdrops_vapor.png" width="200">
+<img src="./Alternate_Icons/colorpicker.png" width="200">
+<img src="./Alternate_Icons/colorpicker_friends.png" width="200">
+<img src="./Alternate_Icons/hipdriplarge.png" width="200">
+<img src="./Alternate_Icons/hipdrips_messy.png" width="200">
+<img src="./Alternate_Icons/hipdrops_vapor.png" width="200">
+<img src="./Alternate_Icons/vaporwave.png" width="200">
+<img src="./Alternate_Icons/vaporwave_clean.png" width="200">
