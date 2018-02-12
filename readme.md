@@ -14,20 +14,17 @@
 
 
 ## ✨ How to Get Started ✨ 
-``` 
-- https://github.com/andrewmundy/hipdrip/releases
-- find the latest release
-- download, unzip,  HipDrips.app to your Applications folder
-- update your security settings to open a this Application since it was "Downloaded from the web"
+- Download the latest release from this projects <a href="https://github.com/andrewmundy/hipdrip/releases">Releases</a> page
+- download, unzip, and drag HipDrips.app to your Applications folder
+- update your security settings to open a this Application being that this was "Downloaded from the web"
 - Get Drippin! 🎨
-```
 
 ## Bonus
 Included in this repo is a collection of alternate icons. Honestly, I've spent more time brainstorming the branding than actually building this app. SO go ahead and toss em in. 
 
 1. click one of the images below
 2. `right-click` and `Copy Image`
-2. `right-click` HipDrips.app > Get Info > `click` on the icon image in the top left > `cmd + d` to paste
+2. `right-click` HipDrips.app > Get Info > `click` on the icon image in the top left > `cmd + v` to paste
 3. Presto!
 
 <img src="./Alternate_Icons/colorpicker.png" width="200">
